@@ -1,1 +1,2 @@
 # supply-chain-management
+The project involved transforming and cleaning data for ATLIQ MART SUPPLY CHAIN MANAGEMENT, followed by creating an interactive dashboard. Measures were developed to track IN-FULL, ON-TIME, and ON-TIME IN-FULL averages, along with their respective achievement percentages. Additional measures calculated Total Order Lines, Line Fill Rate (LIFR), Volume Fill Rate (VOFR), and other metrics. Various visualizations like KPI matrices, charts, and slicers were utilized to analyze and present the data effectively.
